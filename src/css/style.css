@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+header {
+    text-align: center
+}
+img {
+    margin:  auto;
+    height: 200px;
+}
+header input {
+    font-size: 20px;
+    margin: 20px auto;
+}
+.active {
+    background: #03a9f4;
+}
+.non_active {
+    background: #88e0e0a6;
+}
+.news_items {
+    margin: 0 auto;
+    padding: 10px;
+    border-bottom: 1px solid #80808047;
+}
