@@ -27,6 +27,7 @@ class Header extends Component {
             <br/>
             <input 
                 type='text' 
+                placeholder = 'Search...'
                 className='form-control col-4'
                 onChange = {this.props.keyword}
             />
